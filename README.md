@@ -1,7 +1,7 @@
 # donation-app-main
 
 This is a donation program developed as a Rust Smart Contract(running on Solana Blockchain).
-It used a react(typescript) frontend that interacts with the Rust Smart Contract.
+It has a react(typescript) frontend that interacts with the Rust Smart Contract.
 
 Below are some basic features contained in the program;
 
